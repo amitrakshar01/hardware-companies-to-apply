@@ -1,6 +1,24 @@
 # hardware-companies-to-apply
 List of the best companies- startups/established for a career in the Hardware Industry
 
+## find companies Alphabetically
+ |      |    |    |    |
+ |  --- |--- | ---|--- |
+ |    [A](#A) |  [B](#B) |  [C](#C) | [D](#D)  |  
+ |    [E](#E) |  [F](#F) |  [G](#G) | [H](#H)  |  
+ |    [I](#I) |  [J](#J) |  [K](#K) | [L](#L)  |  
+ |    [M](#M) |  [N](#N) |  [O](#O) | [P](#P)  |  
+ |    [Q](#Q) |  [R](#R) |  [S](#S) | [T](#T)  |  
+ |    [U](#U) |  [V](#V) |  [W](#W) |    |  
+ |    [X](#X) |  [Y](#Y) |  [Z](#Z) |    | 
+ 
+ 
+ 
+ |Total companies added|
+ |:-------------------:|
+ |      60             |
+ 
+
 
 ## A
 
@@ -99,6 +117,7 @@ List of the best companies- startups/established for a career in the Hardware In
 5. [Steradian Semiconductors](contact@steradiansemi.com)
 6. [Swiftchill](http://www.swiftchill.in/)
 7. [SwitchOn](https://www.switchon.org.in/work-with-us)
+8. [Synopsis Inc.](https://www.synopsys.com/careers.html)
 
 ## T
 
